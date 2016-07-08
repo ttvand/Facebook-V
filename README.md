@@ -3,4 +3,4 @@ Cleaned winning code of the fifth Facebook recruiting Kaggle competition (https:
 
 High level instructions to go from the raw data to the winning submission are mentioned in the "Instructions" pdf. Please feel free to discuss anything that might be unclear in the topic of the winning submission: https://www.kaggle.com/c/facebook-v-predicting-check-ins/forums/t/22081/1st-place-winning-solution.
 
-Also make sure to check out my exploratory analysis shiny application: https://tvdwiele.shinyapps.io/Facebook-V/
+Also make sure to check out my exploratory analysis Shiny application: https://tvdwiele.shinyapps.io/Facebook-V/
