@@ -1,4 +1,4 @@
-# Functions that returns the top N locations of a set of test records given a
+# Function that returns the top N locations of a set of test records given a
 # summary of the training data
 
 # Target use:
