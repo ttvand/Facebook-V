@@ -1,9 +1,5 @@
 # Facebook V: Predicting Check Ins
-Cleaned winning code of the <a href="https://www.kaggle.com/c/facebook-v-predicting-check-ins" target="_blank">fifth Facebook recruiting Kaggle competition</a>.
-
-
-
-<a href="Link" target="_blank">text</a>
+Cleaned winning code of the [fifth Facebook recruiting Kaggle competition](https://www.kaggle.com/c/facebook-v-predicting-check-ins).
 
 The article on my [blog](https://ttvand.github.io/Winning-approach-of-the-Facebook-V-Kaggle-competition/) explains the details of the approach.
 
